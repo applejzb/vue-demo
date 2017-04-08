@@ -1,3 +1,3 @@
 # vue-demo
 
-[demoLink]()
+[demoLink](https://github.com/applejzb/vue-demo/public)
